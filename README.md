@@ -13,7 +13,8 @@ a) Single level directory b) Two level directory c) Hierarchical
 5. Simulate the following disk scheduling algorithms. *    
 a) FCFS b)SCAN c) C-SCAN     
  6. Implement the producer-consumer problem using semaphores. *          
-7. Write a program to simulate the working of the dining philosopher’s problem.*     
+7. Write a program to simulate the working of the dining philosopher’s problem.*    
+
 **Part B**
 8. Implement pass one of a two pass assembler. *      
 9. Implement pass two of a two pass assembler. *   
