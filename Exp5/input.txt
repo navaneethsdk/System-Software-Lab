@@ -1,0 +1,22 @@
+Enter the max range of disk:199
+Enter the size of queue request:8
+Enter the queue of disk positions to be read: 98 183 41 122 14 124 65 67 
+Enter the initial head position:53
+
+------DISC SCHEDULING ALGORITHMS------
+1.FCFS
+2.SCAN
+3.C-SCAN
+Enter choice:1
+
+------DISC SCHEDULING ALGORITHMS------
+1.FCFS
+2.SCAN
+3.C-SCAN
+Enter choice:2
+
+------DISC SCHEDULING ALGORITHMS------
+1.FCFS
+2.SCAN
+3.C-SCAN
+Enter choice:3

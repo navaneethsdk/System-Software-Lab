@@ -1,0 +1,3 @@
+Total seek time is 632
+Total seek time is 331
+Total seek time is 386

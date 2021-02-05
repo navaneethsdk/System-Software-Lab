@@ -1,0 +1,24 @@
+------Indexed File Allocation------
+
+
+Process	Status
+P1	Allocated 
+P2	Allocated 
+P3	NA 
+P4	NA 
+
+Process	Blocks allocated with index
+P1:	123 for index 7
+P2:	4 for index 8
+
+Index	Character
+0	NA
+1	a
+2	b
+3	c
+4	x
+5	NA
+6	NA
+7	NA
+8	NA
+9	NA

@@ -1,0 +1,21 @@
+
+File created
+  File :aBC
+  Directory :main
+  Date created :2/3/4
+  permissions :R W X
+File deleted
+  File :aBC
+  Directory :main
+  Date created :2/3/4
+  permissions :R W X
+File created
+  File :aBC
+  Directory :sec
+  Date created :3/4/5
+  permissions :R W X
+MATCH 1 - 
+  File :aBC
+  Directory :sec
+  Date created :3/4/5
+  permissions :R W X

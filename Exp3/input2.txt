@@ -1,0 +1,62 @@
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+------INSERT FILE------
+Enter the file name : aBC
+Enter the Location(only root can exist) : main
+Enter the date of creation : 2/3/4
+Enter the size : 12
+DEFAULT values filed in rest of the fields
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+------DELETE FILE------
+Enter the file name : aBC
+Enter the folder name : main
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+------INSERT FILE------
+Enter the file name : aBC
+Enter the Location(only root can exist) : sec
+Enter the date of creation : 3/4/5
+Enter the size : 23
+DEFAULT values filed in rest of the fields
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Display
+Enter choice:
+------SEARCH FILE------
+Enter the file name : aBC

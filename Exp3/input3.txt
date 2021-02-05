@@ -1,0 +1,91 @@
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+Enter the folder name : ABCEnter the Location (if the directory does not exist it will be created in the root) : mainEnter the date of creation : 3/4/5Enter the size : 21
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+------INSERT FILE------
+Enter the file name : Hello.txt
+Enter the Location(if dir does not exist it will be created in root) : main
+Enter the date of creation : 2/3/4
+Enter the size : 12
+DEFAULT values filed in rest of the fields
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+------INSERT FILE------
+Enter the file name : ABC
+Enter the Location(if dir does not exist it will be created in root) : sec
+Enter the date of creation : 2/3/4
+Enter the size : 23
+DEFAULT values filed in rest of the fields
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+------INSERT FILE------
+Enter the file name : CDE
+Enter the Location(if dir does not exist it will be created in root) : ABC
+Enter the date of creation : 2/3/4
+Enter the size : 56
+DEFAULT values filed in rest of the fields
+
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+------DELETE FILE------
+Enter the file name : Hello.txt
+Enter the folder name : main
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+--Single level--
+1.Create File
+2.Delete File
+3.Search File
+4.Create new directory
+5.Display
+Enter choice:
+------SEARCH FILE------
+Enter the file name : ABC

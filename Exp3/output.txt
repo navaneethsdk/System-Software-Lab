@@ -1,0 +1,20 @@
+
+File created
+  File :abc
+  Directory :root
+  Date created :3/45
+  permissions :R W XCannot create a new directory in Single level hierarchy
+File created
+  File :wer
+  Directory :root
+  Date created :3/4/5
+  permissions :R W XFile found
+  File :wer
+  Directory :root
+  Date created :3/4/5
+  permissions :R W X
+File deleted
+  File :wer
+  Directory :root
+  Date created :3/4/5
+  permissions :R W X
